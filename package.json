@@ -1,14 +1,19 @@
 {
-  "name": "thebot",
+  "name": "paulon-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "Bot discord de paulon",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "paulon",
+  "author": "Paulon",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^13.2.0"
+    "@discordjs/opus": "^0.5.3",
+    "discord-buttons": "^4.0.0",
+    "discord-slash-commands-client": "^1.2.2",
+    "discord.js": "^12.5.1",
+    "distube": "^2.8.18",
+    "ffmpeg-static": "^4.4.0"
   }
 }

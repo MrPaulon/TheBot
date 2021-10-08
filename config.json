@@ -1,3 +1,8 @@
 {
-	"token": "ODk1Mjc2NDM3OTExNzczMjE1.YV2NKA.pezNqdgw2nl1jyuBN1m8H-TfzRs"
+    "token": "ODk1Mjc2NDM3OTExNzczMjE1.YV2NKA.eqQ-sLQtWxS03G6xqE4YuQDlTGc",
+    "prefix": "tb!",
+    "greeting": {
+        "channel": "895277129737043968",
+        "role": "895279952285548545"
+    }
 }
