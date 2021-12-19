@@ -2,7 +2,7 @@
 
 The BOT est un bot discord. Avec The BOT vous avez désormais une liberté total, et une multitude de choix pour gérer la modération de votre discord comme vous l'entendez, créer des événements pour votre commnauté, organiser un giveway, faire un Blins-Test ou encore plus simplement écouter de la musique ? 
 
-Alors convaincu ? The BOT n'attends plus que vous alors [cliquez ici](https://google.com/)
+Alors convaincu ? The BOT n'attends plus que vous alors [cliquez ici](https://discord.com/api/oauth2/authorize?client_id=895276437911773215&permissions=8&scope=bot)
 
 ### Commandes
 
@@ -36,7 +36,7 @@ Pour configurer le bot il vous suffit de faire la commande suivante "p!settings"
 
 ### Participer au code
 
-Pour participer au code il vous suffit de rejoindre mon [discord](https://docs.github.com/categories/github-pages-basics/) et de faire une demande dans le salon "Participer au code". Il vous reste plus qu'a idiquer votre Github et pourquoi vous voulez avoir accès au code
+Pour participer au code il vous suffit de rejoindre mon [discord](https://discord.gg/trC2m27c9k) et de faire une demande dans le salon "Participer au code". Il vous reste plus qu'a idiquer votre Github et pourquoi vous voulez avoir accès au code
 
 ## Support
 
